@@ -59,18 +59,7 @@ Soy **Ingeniero de Software** especializado en **desarrollo Frontend con Angular
 
 <br/>
 
-## 📊 Actividad en GitHub
 
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AngeloVaca&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3B6B&fire=FF3B6B&currStreakLabel=36BCF7" />
-</p>
 
 <p align="center">
   <picture>
