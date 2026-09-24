@@ -1,27 +1,116 @@
-# 💫 About Me:
-¡Hola! Soy un joven programador con 21 años, nacido en la encantadora ciudad de Ibarra, Ecuador. Mi pasión por la tecnología y el desarrollo de software me impulsa a aprender y mejorar constantemente. Estoy siempre en busca de nuevos desafíos y oportunidades para crecer profesionalmente. Mi enfoque se centra en crear soluciones eficientes y efectivas, utilizando las últimas tecnologías y prácticas del sector.<br><br>Mi formación y experiencia me han permitido desarrollar habilidades en diversas áreas del desarrollo de software, desde la programación en diferentes lenguajes  y la visualización de datos en Power BI. <br><br>Si estás buscando a alguien con energía, dedicación y una mente abierta a nuevas ideas, ¡soy la persona adecuada para tu equipo! Vamos a crear algo increíble juntos.
+<!-- ===================== HEADER ANIMADO ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Angelo%20Vaca&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20%26%20BI&descSize=18&descAlignY=56" width="100%" alt="Header" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/AngeloVaca">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Ingeniero+de+Software;Desarrollo+Backend+con+.NET+y+Laravel;An%C3%A1lisis+y+Visualizaci%C3%B3n+de+Datos;Power+BI+%E2%80%A2+Python+%E2%80%A2+SQL" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ariel vaca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariel.vaca.7) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Angelo Vaca&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Angelo Vaca&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo Vaca&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Angelo Vaca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Angelo Vaca&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AngeloVaca?tab=repositories"><img src="https://img.shields.io/badge/Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Ibarra,%20Ecuador-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Angelo Vaca&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 Sobre mí
+
+Soy **Ingeniero de Software** de Ibarra, Ecuador, enfocado en dos áreas que se complementan: **construir software** y **convertir datos en decisiones**.
+
+- 🔧 Desarrollo **aplicaciones web y APIs** con C#/.NET, Laravel y JavaScript.
+- 📊 Diseño **modelos de datos, consultas SQL y dashboards en Power BI** para que la información sea clara y accionable.
+- 🤖 Exploro **Python para análisis de datos y machine learning** (NumPy, Keras).
+- 🌱 Actualmente aprendiendo: `buenas prácticas de arquitectura`, `cloud en Azure` y `modelado de datos`.
+- 🤝 Abierto a colaborar en proyectos de **software y datos con impacto real**.
+
+```csharp
+public class AngeloVaca
+{
+    public string Rol       => "Software Engineer";
+    public string[] Enfoque => { "Backend", "Bases de datos", "Business Intelligence" };
+    public string Ubicacion => "Ibarra, Ecuador 🇪🇨";
+    public string Mision    => "Crear soluciones eficientes a partir de código y datos";
+}
+```
+
+---
+
+## 🛠️ Tecnologías
+
+**Lenguajes**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,java,py,php,js,html,css&theme=dark" />
+</p>
+
+**Backend y Frameworks**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,graphql,vite,wordpress&theme=dark" />
+</p>
+
+**Datos, BI y Machine Learning**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
+
+**Cloud y Herramientas**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,git,github,postman,figma&theme=dark" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🩺 **[Registro de Horas de Voluntariado](https://github.com/AngeloVaca/NOMBRE-REPO)** | Sistema para Cruz Roja Ecuador que registra automáticamente las horas de voluntariado por evento, reemplazando formularios manuales y evitando errores de registro. | `COMPLETA` `TU` `STACK` |
+| 📚 **[Trabajo1_BDD](https://github.com/AngeloVaca/Trabajo1_BDD)** | Sistema de gestión de biblioteca con diseño de base de datos relacional. | `SQL` |
+| 🐍 **[EjerciciosPython](https://github.com/AngeloVaca/EjerciciosPython)** | Ejercicios de programación en Java y Python. | `Python` `Java` |
+
+---
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AngeloVaca&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloVaca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AngeloVaca&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AngeloVaca&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Mi actividad en contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngeloVaca/AngeloVaca/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngeloVaca/AngeloVaca/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AngeloVaca/AngeloVaca/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ===================== FOOTER ANIMADO ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</p>
