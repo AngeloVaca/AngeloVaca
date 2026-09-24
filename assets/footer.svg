@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff3b6b"/><stop offset="1" stop-color="#36bcf7"/></linearGradient>
+  </defs>
+  <style>
+    .w1{animation:mv 6s linear infinite}
+    .w2{animation:mv 9s linear infinite reverse}
+    @keyframes mv{to{transform:translateX(300px)}}
+    .t{font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;animation:p 3s ease-in-out infinite}
+    @keyframes p{0%,100%{opacity:.6}50%{opacity:1}}
+  </style>
+  <path class="w2" d="M-300 80 q75 -22 150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 L1500 140 L-300 140 Z" fill="url(#g)" opacity=".25"/>
+  <path class="w1" d="M-300 95 q75 -18 150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 L1500 140 L-300 140 Z" fill="url(#g)" opacity=".45"/>
+  <text class="t" x="600" y="40" text-anchor="middle" font-size="18" font-weight="600" fill="#8b949e">Gracias por visitar mi perfil · Angelo Vaca</text>
+</svg>
